@@ -1,6 +1,6 @@
 {
-    "name": "fabpot/silex-skeleton",
-    "description": "A pre-configured skeleton for the Silex microframework",
+    "name": "vfernandezdb/silexREST",
+    "description": "Based on the pre-configured skeleton for the Silex by fabpot, aims to be a REST silex server.",
     "license": "MIT",
     "type": "project",
     "require": {
